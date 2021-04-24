@@ -18,7 +18,8 @@
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.35.1",
     "webpack-cli": "^4.6.0",
-    "webpack-dev-middleware": "^4.1.0"
+    "webpack-dev-middleware": "^4.1.0",
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "lodash": "^4.17.21"
